@@ -6,8 +6,8 @@ project = 'WP Bio'
 copyright = '2021, Leonardo Welter'
 author = 'Leonardo Welter'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.1.0'
+version = '1.0.1'
 
 # -- General configuration
 
