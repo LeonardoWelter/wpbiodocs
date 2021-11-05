@@ -1,5 +1,5 @@
 Funções do plugin
-===
+=====
 
 .. _features:
 
