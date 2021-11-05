@@ -91,7 +91,7 @@ Configure sua página para não mostrar Cabeçalho, Barra Lateral, Título, Roda
 
 Após configurar, selecione o ``+`` e adicione um bloco de Shortcode:
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_add_shortcode.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_add_shortcode2.png
    :width: 60%
    :align: center
    :alt: Adicionando Shortcode
