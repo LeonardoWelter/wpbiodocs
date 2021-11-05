@@ -12,4 +12,4 @@ Conteúdos
 .. toctree::
 
    usage
-   api
+   features
