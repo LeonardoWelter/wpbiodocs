@@ -1,6 +1,8 @@
 Funções do plugin
 ===
 
+.. _features:
+
 Conhecendo a dashboard
 ----------------
 
