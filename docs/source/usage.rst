@@ -76,7 +76,7 @@ No menu do Wordpress, selecione "Páginas" e em seguida "Adicionar Nova"
 
 Adicione um título a pagina, esse título será usado como o link para a página
 
-Configure sua página para não mostrar Cabeçalho, Barra Lateral, Título, Rodapé, Caminho de navegação e deixe a página com a Largura wpbio_tutorial_admin_dashboard
+Configure sua página para não mostrar Cabeçalho, Barra Lateral, Título, Rodapé, Caminho de navegação e deixe a página com a Largura Total:
 
 .. note::
 
