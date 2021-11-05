@@ -50,3 +50,74 @@ Pronto, a instalação foi finalizada e a página de configuração do plugin po
    :alt: Menu do Wordpress
 
    Menu do Wordpress
+
+Ao selecionar WP Bio no menu, você será direcionado a dashboard do plugin:
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_admin_dashboard.png
+   :width: 60%
+   :align: center
+   :alt: Dashboard
+
+   Dashboard
+
+Configurando a página de links
+----------------
+
+Para mostrar sua página de links as seguintes configurações deverão ser feitas:
+
+No menu do Wordpress, selecione "Páginas" e em seguida "Adicionar Nova"
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_pages2.png
+   :width: 60%
+   :align: center
+   :alt: Páginas do Wordpress
+
+   Páginas do Wordpress
+
+Adicione um título a pagina, esse título será usado como o link para a página
+
+Configure sua página para não mostrar Cabeçalho, Barra Lateral, Título, Rodapé, Caminho de navegação e deixe a página com a Largura wpbio_tutorial_admin_dashboard
+
+.. note::
+
+   A imagem abaixo mostra as configurações do tema `Astra`
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_astra_page_config.png
+   :width: 60%
+   :align: center
+   :alt: Configurações da página
+
+   Configurações da página
+
+Após configurar, selecione o ``+`` e adicione um bloco de Shortcode:
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_add_shortcode.png
+   :width: 60%
+   :align: center
+   :alt: Adicionando Shortcode
+
+   Adicionando Shortcode
+
+Dentro do bloco de Shortcode, digite ``[lwbio-links]`` e clique em "Atualizar" no canto superior direito:
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_shortcode.png
+   :width: 60%
+   :align: center
+   :alt: Shortcode do Plugin
+
+   Shortcode do Plugin
+
+Clique em "Visualizar" para visitar a página criada, o resultado deve ser parecido com esse:
+
+.. note::
+
+   A imagem abaixo mostra a página no modo escuro, que depende da configuração do sistema.
+
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_links_page.png
+   :width: 60%
+   :align: center
+   :alt: Página de links
+
+   Página de links
+
+Se tudo ocorreu como deveria sua instalação está concluída!
