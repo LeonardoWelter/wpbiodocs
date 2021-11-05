@@ -4,8 +4,7 @@ Funções do plugin
 Conhecendo a dashboard
 ----------------
 
-Na Dashboard do WP Bio você pode encontrar todos seus links já criados, assim como atalhos para :ref:`Adicionar novos links <Adicionando um botão>`,:ref:`Editar links existentes <Editando um link existente
->` ou :ref:`Remover um link <Apagando um link>`
+Na Dashboard do WP Bio você pode encontrar todos seus links já criados, assim como atalhos para Adicionar novos links, Editar links existentes ou Remover um link
 
 .. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpbiodocs/main/docs/images/wpbio_tutorial_admin_dashboard.png
    :width: 60%
